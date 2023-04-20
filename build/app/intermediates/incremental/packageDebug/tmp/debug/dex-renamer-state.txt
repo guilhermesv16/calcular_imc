@@ -1,0 +1,4 @@
+#Fri Apr 14 00:57:17 BRT 2023
+base.0=/home/hyato/Documentos/Android-studio Workspace/calcular_imc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
